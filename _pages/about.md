@@ -13,7 +13,7 @@ My research interests lie broadly in **Robotics and Artificial Intelligence**, w
 
 Currently, I am a research intern at **CUHK-Shenzhen**, working on UAV monitoring and obstacle avoidance algorithms.
 
-**🔥 I am actively seeking a research internship for Summer 2025.**
+**🔥 I am actively seeking a research internship for Summer 2026.**
 
 ---
 
