@@ -24,9 +24,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "Nengxin Mou"
+  pronouns         : "he/him"  
+  bio              : "A junior undergraduate majoring in computer science and technology"
   location         : "Earth"
   employer         : "Hohai University"
   uri              : # URL
