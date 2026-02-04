@@ -1,17 +1,21 @@
 ---
 permalink: /
+title: "About Me"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 I am a third-year undergraduate student majoring in **Computer Science and Technology** at **Hohai University**.
 
 My research interests lie broadly in **Robotics and Artificial Intelligence**, with a specific focus on **UAVs (Unmanned Aerial Vehicles)**, **Motion Planning (RRT*)**, and **3D Perception**. I enjoy the process of turning algorithms into real-world applications.
 
 Currently, I am a research intern at **The Chinese University of Hong Kong, Shenzhen (CUHK-SZ)**, working on UAV monitoring and obstacle avoidance algorithms.
 
-**🔥 I am actively seeking a research internship for Summer 2025. Please feel free to reach out to me!**
----
+**🔥 I am actively seeking a research internship for Summer 2026. Please feel free to reach out to me!**
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
-
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
 ======
