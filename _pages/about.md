@@ -18,12 +18,13 @@ Currently, I am a research intern at **CUHK-Shenzhen**, working on UAV monitorin
 ---
 
 ## 🌟 Selected Research & Publications
-
 ### 1. [Research on 2D Obstacle Avoidance Model Based on Field Rescue](https://doi.org/10.1145/3719477.3719479)
 *Research Mentorship Program (Guided by Prof. Peter Zhang, CMU)*
 * **Published in:** *2024 6th International Conference on Mechatronics Systems and Control Engineering (ICMSCE 2024)*, Singapore.
 * **Authors:** Ye Zhou, **Nengxin Mou**. (Publisher: ACM)
-* **[🌐 ACM Digital Library (DOI)](https://doi.org/10.1145/3719477.3719479)** | **[📄 PDF Download](/files/paper.pdf)** | **[📜 View Supervisor Evaluation](/files/cmu_report.pdf)**
+
+**[🌐 ACM Digital Library (DOI)](https://doi.org/10.1145/3719477.3719479)** | **[📄 PDF Download](/files/paper.pdf)** | **[📜 View Supervisor Evaluation](/files/cmu_report.pdf)**
+
 * **Abstract:** Addressed the critical challenge of autonomous navigation for field search and rescue robots.
 * **Method:** Evaluated and compared four Deep Reinforcement Learning models (**DQL, PPO, A2C, DQN**) in a custom 100x100 grid environment with dynamic obstacles.
 * **Result:** Demonstrated that the **Deep Q-Learning (DQL)** model achieved the highest success rate (0.70) and stability, outperforming PPO and A2C in complex field operations.
@@ -32,7 +33,9 @@ Currently, I am a research intern at **CUHK-Shenzhen**, working on UAV monitorin
 ### 2. Optimizing Model Performance for Financial News Sentiment Analysis
 *MIT xPro / TechXcelerate Summer Program (Real-World Applications of ML, NLP & LLM)*
 * **Advisor:** Mika Wang (Data Scientist & Researcher at UNC Chapel Hill)
-* **[📜 View Supervisor Report](/files/mit_report.pdf)** | **[📊 View Academic Poster](/files/mit_poster.pdf)**
+
+**[📜 View Supervisor Report](/files/mit_report.pdf)** | **[📊 View Academic Poster](/files/mit_poster.pdf)**
+
 * **Objective:** Enhanced the prediction accuracy of financial news sentiment analysis models to better inform investment decisions.
 * **Methodology:**
     * Addressed data imbalance and utilized **Data Augmentation** techniques.
