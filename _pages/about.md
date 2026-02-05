@@ -9,9 +9,11 @@ redirect_from:
 ---
 Hi, I am Nengxin Mou. I am a third-year undergraduate student majoring in **Computer Science and Technology** at **Hohai University**.
 
-My research interests lie broadly in **Robotics and Artificial Intelligence**, with a specific focus on **UAVs (Unmanned Aerial Vehicles)**, **Motion Planning (RRT*)**, and **3D Perception**. I enjoy the process of turning algorithms into real-world applications.
+My research interests lie primarily in **Artificial Intelligence** and **Computer Vision**, with a specific focus on **Algorithmic Path Planning** and **3D Perception** for autonomous systems.
 
-Currently, I am a research intern at **CUHK-Shenzhen**, working on UAV monitoring and obstacle avoidance algorithms.
+Unlike hardware-centric robotics, my interest lies in the **algorithmic and mathematical foundations** of autonomous systems. I focus on leveraging **Deep Learning** and **Optimization** strategies (e.g., RRT*, RL) to address challenges in **Perception** and **Motion Planning**.
+
+Currently, I am a research intern at **CUHK-Shenzhen**, working on algorithmic optimizations for UAV obstacle avoidance.
 
 **🔥 I am actively seeking a research internship for Summer 2026.**
 
